@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: var(--text-C);
+    color: var(--text-C);
+}
+.mainContainer{
+    background-color: var(--bg);
+    box-shadow: 0px 1px 15px gray;
+    border-radius: 1vw;
+    height: auto;
+    min-height: 80vh;
+    width: 90%;
+    margin: 10vh auto;
+    padding: 3vw;
+}
+
+:root {
+    --bg: #192338;
+    --secondary : #1D2E50;
+    --text-C : #D8E1F3 ;
+
+    
+}

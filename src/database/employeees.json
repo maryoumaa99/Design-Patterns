@@ -1,0 +1,248 @@
+[
+  {
+    "id": 1,
+    "fullName": "Maryam Abdalkader",
+    "age": 29,
+    "position": "Frontend Developer",
+    "department": "Engineering",
+    "email": "maryam.abd@example.com",
+    "salary": 5200,
+    "skills": ["React", "JS", "TypeScript"],
+    "hiredDate": "2022-05-16",
+    "address": "Cairo, Egypt"
+    
+  },
+  {
+    "id": 2,
+    "fullName": "Omar Hassan",
+    "age": 34,
+    "position": "Backend Developer",
+    "department": "Engineering",
+    "email": "omar.hassan@example.com",
+    "salary": 6000,
+    "skills": ["Node.js", "Postgres", "Docker"],
+    "hiredDate": "2020-11-02",
+    "address": "Giza, Egypt"
+    
+  },
+  {
+    "id": 3,
+    "fullName": "Laila Kamal",
+    "age": 26,
+    "position": "UX Designer",
+    "department": "Design",
+    "email": "laila.kamal@example.com",
+    "salary": 4100,
+    "skills": ["Figma", "UX Research"],
+    "hiredDate": "2023-01-10",
+    "address": "Alexandria, Egypt"
+    
+  },
+  {
+    "id": 4,
+    "fullName": "Youssef El-Sayed",
+    "age": 41,
+    "position": "Product Manager",
+    "department": "Product",
+    "email": "youssef.elsayed@example.com",
+    "salary": 7800,
+    "skills": ["Roadmapping", "Stakeholder mgmt"],
+    "hiredDate": "2018-07-01",
+    "address": "Dubai, UAE"
+    
+  },
+  {
+    "id": 5,
+    "fullName": "Nour Saleh",
+    "age": 31,
+    "position": "QA Engineer",
+    "department": "Engineering",
+    "email": "nour.saleh@example.com",
+    "salary": 3800,
+    "skills": ["Testing", "Selenium"],
+    "hiredDate": "2019-09-17",
+    "address": "Cairo, Egypt"
+  },
+  {
+    "id": 6,
+    "fullName": "Khaled Mahmoud",
+    "age": 37,
+    "position": "DevOps Engineer",
+    "department": "Infrastructure",
+    "email": "khaled.mahmoud@example.com",
+    "salary": 6900,
+    "skills": ["AWS", "Terraform"],
+    "hiredDate": "2017-03-22",
+    "address": "Doha, Qatar"
+  },
+  {
+    "id": 7,
+    "fullName": "Sara Ibrahim",
+    "age": 24,
+    "position": "Junior Frontend",
+    "department": "Engineering",
+    "email": "sara.ibrahim@example.com",
+    "salary": 2800,
+    "skills": ["HTML", "CSS", "JS"],
+    "hiredDate": "2024-02-05",
+    "address": "Mansoura, Egypt"
+
+  },
+  {
+    "id": 8,
+    "fullName": "Hassan Nabil",
+    "age": 45,
+    "position": "CTO",
+    "department": "Executive",
+    "email": "hassan.nabil@example.com",
+    "salary": 12000,
+    "skills": ["Leadership", "Systems design"],
+    "hiredDate": "2015-10-12",
+    "address": "Dubai, UAE"
+
+  },
+  {
+    "id": 9,
+    "fullName": "Mona Fathy",
+    "age": 28,
+    "position": "Data Analyst",
+    "department": "Data",
+    "email": "mona.fathy@example.com",
+    "salary": 4500,
+    "skills": ["SQL", "Python", "Pandas"],
+    "hiredDate": "2021-06-30",
+    "address": "Cairo, Egypt"
+  },
+  {
+    "id": 10,
+    "fullName": "Tamer Sami",
+    "age": 33,
+    "position": "Support Engineer",
+    "department": "Support",
+    "email": "tamer.sami@example.com",
+    "salary": 3500,
+    "skills": ["Customer support", "Troubleshooting"],
+    "hiredDate": "2022-08-14",
+    "address": "Alexandria, Egypt"
+  },
+  {
+    "id": 11,
+    "fullName": "Reem Ahmed",
+    "age": 27,
+    "position": "Marketing Specialist",
+    "department": "Marketing",
+    "email": "reem.ahmed@example.com",
+    "salary": 4000,
+    "skills": ["SEO", "Content Strategy"],
+    "hiredDate": "2021-04-05",
+    "address": "Cairo, Egypt"
+  },
+  {
+    "id": 12,
+    "fullName": "Walid Tawfik",
+    "age": 39,
+    "position": "Finance Manager",
+    "department": "Finance",
+    "email": "walid.tawfik@example.com",
+    "salary": 9000,
+    "skills": ["Accounting", "Forecasting"],
+    "hiredDate": "2016-02-11",
+    "address": "Cairo, Egypt"
+  },
+  {
+    "id": 13,
+    "fullName": "Hala Mostafa",
+    "age": 32,
+    "position": "HR Specialist",
+    "department": "Human Resources",
+    "email": "hala.mostafa@example.com",
+    "salary": 4800,
+    "skills": ["Recruitment", "Payroll"],
+    "hiredDate": "2020-03-09",
+    "address": "Giza, Egypt"
+  },
+  {
+    "id": 14,
+    "fullName": "Adham Said",
+    "age": 29,
+    "position": "Mobile Developer",
+    "department": "Engineering",
+    "email": "adham.said@example.com",
+    "salary": 5500,
+    "skills": ["React Native", "Kotlin"],
+    "hiredDate": "2021-12-19",
+    "address": "Cairo, Egypt"
+  },
+  {
+    "id": 15,
+    "fullName": "Farida Nassar",
+    "age": 30,
+    "position": "Project Coordinator",
+    "department": "Operations",
+    "email": "farida.nassar@example.com",
+    "salary": 4600,
+    "skills": ["Planning", "Reporting"],
+    "hiredDate": "2019-07-24",
+    "address": "Alexandria, Egypt"
+  },
+  {
+    "id": 16,
+    "fullName": "Ahmed Sherif",
+    "age": 42,
+    "position": "System Architect",
+    "department": "Engineering",
+    "email": "ahmed.sherif@example.com",
+    "salary": 10500,
+    "skills": ["Microservices", "Scalability"],
+    "hiredDate": "2014-05-03",
+    "address": "Dubai, UAE"
+  },
+  {
+    "id": 17,
+    "fullName": "Jana Ezzat",
+    "age": 25,
+    "position": "Graphic Designer",
+    "department": "Design",
+    "email": "jana.ezzat@example.com",
+    "salary": 3700,
+    "skills": ["Illustrator", "Photoshop"],
+    "hiredDate": "2023-03-11",
+    "address": "Cairo, Egypt"
+  },
+  {
+    "id": 18,
+    "fullName": "Hussein Adel",
+    "age": 36,
+    "position": "Security Engineer",
+    "department": "IT",
+    "email": "hussein.adel@example.com",
+    "salary": 7200,
+    "skills": ["PenTesting", "Firewalls"],
+    "hiredDate": "2018-09-01",
+    "address": "Riyadh, KSA"
+  },
+  {
+    "id": 19,
+    "fullName": "Dina Fawzy",
+    "age": 27,
+    "position": "Business Analyst",
+    "department": "Product",
+    "email": "dina.fawzy@example.com",
+    "salary": 5000,
+    "skills": ["Requirements", "Documentation"],
+    "hiredDate": "2021-10-22",
+    "address": "Cairo, Egypt"
+  },
+  {
+    "id": 20,
+    "fullName": "Karim Lotfy",
+    "age": 38,
+    "position": "Scrum Master",
+    "department": "Agile Office",
+    "email": "karim.lotfy@example.com",
+    "salary": 8700,
+    "skills": ["Agile", "Scrum"],
+    "hiredDate": "2016-08-29",
+    "address": "Cairo, Egypt"
+  }
+]
